@@ -34,4 +34,4 @@ override.tf.json
 **/mvp-cgd-key.json
 **/gcp-csw-terraform.json
 
-*.terraform.tfvars
+**/terraform.tfvars
